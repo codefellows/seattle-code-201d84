@@ -5,6 +5,8 @@
 - [IF/ELSE AND OPERATORS REPLIT](https://replit.com/@arpatterson31/Class201d84-IFELSE#index.js)
 - [In Class Demo](inclass-demo)
 - [Lecture Notes - Data Types and Operators](lecture-notes.md)
+- [IF ELSE WHITEBOARD](whiteboards/if-else-whiteboard.png)
+- [GIT WORKFLOW WHITEBOARD](whiteboards/git-vs-github.png)
 
 ## Overview
 
