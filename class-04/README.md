@@ -1,5 +1,12 @@
 # JS Functions, Pair Programming, and Intro to CSS Layout
 
+## IN CLASS NOTES AND TAKEAWAYS
+
+- [Lecture Notes - Functions and Pair Programming](lecture-notes.md)
+- [Functions Replit](https://replit.com/@arpatterson31/Class201d84-FUNCTIONS#index.js)
+- [CodePen Positioning](https://codepen.io/arpatterson31/pen/QWqwewe)
+- [Class 03 Review Replit](https://replit.com/@arpatterson31/201-class-03-review#index.js)
+
 ## Overview
 
 In this class we will be learning about one of the fundamental building blocks in JavaScript: functions! We will also discuss and demonstrate pair programming, and CSS positioning.
