@@ -1,0 +1,63 @@
+body {
+  background-color: #e5e5e5;
+  color: #14213d;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: auto;
+  padding: 30px;
+  width: max-content;
+}
+
+
+#bio {
+  margin-left: 20px;
+  width: 50%;
+}
+
+#bio p {
+  font-size: 1.25em;
+}
+
+#work-history {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#work-history h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#work-history li {
+  font-size: 1.25em;
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+#education {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#education h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+#education li {
+  font-size: 1.25em;
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+#goals {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+#goals p {
+  font-size: 1.25em;
+}
