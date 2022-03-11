@@ -1,0 +1,39 @@
+* {
+  background-color: lightgrey;
+}
+
+/* HEADER STYLING */
+h1 {
+  font-size: 2vw;
+}
+
+
+/* BODY STYLING */
+
+
+
+/* FIGURE STYLING */
+figure {
+  width: 70%;
+  background-color: blue;
+  padding: 25px;
+  margin: auto;
+  margin-top: 50px;
+
+}
+
+figcaption {
+  background-color: inherit;
+  color: white;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 2vw;
+  line-height: 50px;
+
+}
