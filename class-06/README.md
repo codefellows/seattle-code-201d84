@@ -1,5 +1,11 @@
 # The DOM, Domain Modeling, and Introduction to Objects
 
+## IN CLASS NOTES AND TAKEAWAYS
+
+- [Object Literals Replit](https://replit.com/@arpatterson31/Class201d84-OBJECTS-LITERALS#index.js)
+- [Lecture Notes](lecture-notes.md)
+- [Kitten Demo](inclass-demo/)
+
 ## Class Outline
 
 - Code review of previous class lab assignment
