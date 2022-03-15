@@ -1,0 +1,29 @@
+* {
+  background-color: lightgrey;
+}
+
+h1 {
+  font-size: 2.5vw;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 1.5vw;
+}
+
+
+ul {
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+table, tr, th, td {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+td {
+  text-align: center;
+}
