@@ -43,6 +43,8 @@ function Kitten(name, interests, isGoodWithCats, isGoodWithDogs, isGoodWithKids,
 
 }
 
+// USE PROTOTYPE TO DEFINE METHODS - PROTOTYPE = INHERITS
+
 Kitten.prototype.getAge = function(){
   this.age = `${randomAge(3,12)} months`;
 }
@@ -129,6 +131,7 @@ new Kitten('Serena', ['mice', 'lazers', 'scratching'], false, true, false, 'img/
 
 
 function renderAllKittens(){
+  // loops through the kitten array and calls their methods to generate the age and render them to the page
   for(let i = 0; i < kittenCaboodle.length; i++){
     kittenCaboodle[i].getAge();
     kittenCaboodle[i].render();
