@@ -12,10 +12,8 @@ h1 {
     border: 5px solid #003049;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-
-
+    justify-content: center;
+    align-items: flex-start;
 
 }
 
@@ -24,3 +22,7 @@ h1 {
     height: 200px
 }
 
+#container div:nth-of-type(3) {
+  /* align-self: flex-end; */
+  flex-grow: 3;
+}
