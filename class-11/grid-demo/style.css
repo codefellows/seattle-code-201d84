@@ -1,0 +1,12 @@
+.grid-container {
+  width: 90%;
+  margin: auto;
+
+}
+
+.grid-container div {
+  border: 2px solid black;
+  font-size: 1.5em;
+  padding: 30px;
+
+}
