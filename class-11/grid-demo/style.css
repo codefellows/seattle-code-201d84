@@ -1,7 +1,12 @@
 .grid-container {
   width: 90%;
   margin: auto;
-
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: minmax(200px, auto);
+  /* row-gap: 1em;
+  column-gap: 1em; */
+  gap: 1em;
 }
 
 .grid-container div {
@@ -9,4 +14,27 @@
   font-size: 1.5em;
   padding: 30px;
 
+}
+
+.grid-item1 {
+  grid-column: 1/-1;
+
+}
+
+.grid-item2 {
+  grid-row: 2/5;
+}
+
+.grid-item3 {
+  grid-row: 2/5;
+  grid-column: 2/-1;
+}
+
+.grid-item4 {
+  grid-column: 1/-1;
+  grid-row: 5/7;
+}
+
+.grid-item5 {
+  grid-column: 1/-1;
 }
