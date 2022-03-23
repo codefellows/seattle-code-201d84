@@ -36,6 +36,20 @@ let parsedGoats = JSON.parse(retrievedGoats);
 // console.log('Parsed Goats >>> ', parsedGoats);
 
 
+// ***** RUNNING IT BACK THROUGH THE CONSTRUCTOR *****
+
+// for(let i = 0; i < parsedGoats.length; i++){
+//   if(parsedGoats[i].name === 'bunny-goat'){
+//     let reconstructedBunnyGoat = new Goat(parsedGoats[i].name, 'png');
+//     reconstructedBunnyGoat.views = parsedGoats[i].views;
+//     reconstructedBunnyGoat.clicks = parsedGoats[i].clicks;
+//   } else{
+//     let reconstructedGoat = new Goat(parsedGoats[i].name);
+//     reconstructedGoat.views = parsedGoats[i].views;
+//     reconstructedGoat.clicks = parsedGoats[i].clicks;
+//   }
+// }
+
 // ********* CONSTRUCTOR *******************
 
 function Goat(name, fileExtension = 'jpg') {
