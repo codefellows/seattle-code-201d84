@@ -2,8 +2,6 @@
 
 ## Overview
 
-In this class you will are going to be introduced the concept of persisting application state with local storage.
-
 ## Class Outline
 
 - Psych Safety talk
