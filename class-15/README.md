@@ -5,7 +5,7 @@
 ## Today's Schedule
 
 - Announcements
-  - Reminder: weekly surveys will go out today
+  - 301 Entrance Exam
 - Discuss upcoming Career Coaching assignments
 - Code 301 Preview
 - Final Project Overview
